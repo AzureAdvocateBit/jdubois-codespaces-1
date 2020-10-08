@@ -6,10 +6,10 @@ It is made for [JHipster](https://www.jhipster.tech/) users and all other modern
 
 ## More information about Codespaces
 
-- [Codespaces main page](https://visualstudio.microsoft.com/services/visual-studio-online/)
-- [Codespaces login page](https://online.visualstudio.com/login)
-- [Codespaces documentation](https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline)
-- [Pricing information](https://azure.microsoft.com/en-us/pricing/details/visual-studio-online/)
+- [Codespaces main page](https://visualstudio.microsoft.com/services/visual-studio-online/?WT.mc_id=jduboiscodespaces-github-judubois)
+- [Codespaces login page](https://online.visualstudio.com/login?WT.mc_id=jduboiscodespaces-github-judubois)
+- [Codespaces documentation](https://docs.microsoft.com/visualstudio/online/overview/what-is-vsonline?WT.mc_id=jduboiscodespaces-github-judubois)
+- [Pricing information](https://azure.microsoft.com/pricing/details/visual-studio-online/?WT.mc_id=jduboiscodespaces-github-judubois)
 
 ## The jdubois/jdubois-codespaces Docker image
 
